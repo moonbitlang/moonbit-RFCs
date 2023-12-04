@@ -1,4 +1,4 @@
-# Moonbit RFCs
+# MoonBit RFCs
 
 This repository holds proposals for language features and design changes of the Moonbit language.
 
