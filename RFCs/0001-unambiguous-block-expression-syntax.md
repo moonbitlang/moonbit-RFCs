@@ -19,9 +19,6 @@ fn Knight::new(given_name: String) -> Knight {
   }
 
   { name: name }
-  // Expr Type Mismatch
-  //     has type : String
-  //     wanted   : Person
 }
 ```
 
