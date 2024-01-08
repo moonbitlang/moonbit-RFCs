@@ -10,5 +10,5 @@ Discussion on RFCs should take place in the comments of their pull requests.
 
 ## Lifecycle of a RFC
 - PRs of accepted RFCs will be merged into this repo
-- PRs of arejected RFCs will be closed
+- PRs of rejected RFCs will be closed
 - RFCs with open PRs are open for discussion
